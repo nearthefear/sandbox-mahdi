@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-12 08:31 IR
+- 📥 [vless-config-creator-v2.0.0.rar](https://github.com/nearthefear/sandbox-mahdi/raw/main/dl/vless-config-creator-v2.0.0.rar) `93.1MB`
+
+---
+
+
 ### 📅 2026-05-11 20:08 IR
 - 📱 [GooseRelayVPN-HN-1.0.3-arm64-v8a.apk](https://github.com/nearthefear/sandbox-mahdi/raw/main/dl/GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk) `11.0MB`
 
